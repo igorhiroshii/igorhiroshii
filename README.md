@@ -7,12 +7,14 @@ Sou um desenvolvedor apaixonado por tecnologia, resolução de problemas e otimi
 * 🏢 Atualmente atuo com desenvolvimento e suporte técnico, focado na criação e manutenção de fluxos de chamadas digitais (menus interativos).
 * 🌍 Tenho experiência na análise de requisitos, fechamento de tickets de ações e comunicação direta com desenvolvedores internacionais.
 * 🚀 Meu foco atual é evoluir cada vez mais na carreira de **Desenvolvedor de Software**, construindo soluções eficientes e escaláveis.
+* 💻 Desenvolvo sistemas simples e alguns sites também para melhorias.
 
 ### 🛠️ Minhas Tecnologias e Ferramentas
 <!-- Substitua os links abaixo pelas linguagens que você realmente usa. Você pode pegar outros ícones no site shields.io -->
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ### 📊 Estatísticas do GitHub
