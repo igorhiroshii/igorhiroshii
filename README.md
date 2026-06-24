@@ -10,7 +10,7 @@ Sou um desenvolvedor apaixonado por tecnologia, resolução de problemas e otimi
 * 💻 Desenvolvo sistemas simples e alguns sites também para melhorias.
 
 ### 🛠️ Minhas Tecnologias e Ferramentas
-<!-- Substitua os links abaixo pelas linguagens que você realmente usa. Você pode pegar outros ícones no site shields.io -->
+<!-- Tecnologias utilizadas no dia a dia -->
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
